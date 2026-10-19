@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Audios de práctica descargables: no son necesarios para el sitio web.
+audios_por_grado/
+spelling-bee-todos-los-grados.mp3
